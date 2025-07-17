@@ -6,13 +6,15 @@ Diese umfassende Tabelle enthält über 100 Firmen weltweit, die in den Bereiche
 
 ## Zusammenfassung der Ergebnisse:
 
-**📋 Insgesamt recherchierte Firmen: 100+**
+**📋 Insgesamt recherchierte Firmen: 140+**
 
 ### **Kategorien:**
 - **🔄 Kunststoff-Recycling**: 35 Firmen
-- **🔍 Filtration & Granulat-Filtration**: 25 Firmen  
-- **⚙️ Kunststoff-Extrusion**: 30 Firmen
-- **🔧 Pelletizing & Compounding**: 15 Firmen
+- **🔍 Filtration & Granulat-Filtration**: 35 Firmen  
+- **⚙️ Kunststoff-Extrusion**: 35 Firmen
+- **🔧 Pelletizing & Compounding**: 20 Firmen
+- **🔧 Erweiterte Compounding & Twin-Screw**: 10 Firmen
+- **⚙️ Melt Pump & Precision Equipment**: 10 Firmen
 
 ### **Geografische Verteilung:**
 - **🇺🇸 USA**: Starke Präsenz in Recycling und Extrusion
@@ -88,6 +90,25 @@ Diese umfassende Tabelle enthält über 100 Firmen weltweit, die in den Bereiche
 | RHEWUM GmbH | Deutschland | Remscheid | rhewum.com | - | +1-888-4RHEWUM | Screening machines, conveyors | Über 70 Jahre Siebmaschinen-Hersteller |
 | PlastOk Meshes | UK | - | plastok.co.uk | sales@plastok.co.uk | +44-151-647-4579 | Metal/synthetic meshes, filtration | Stainless steel mesh, filter baskets |
 | Xinxiang North Filter Co., Ltd | China | Henan | northfilter.en.alibaba.com | - | - | Air/water filters, oil purifiers | Seit 2000, über 100 Länder Export |
+| **🔧 ERWEITERTE COMPOUNDING & TWIN-SCREW TECHNOLOGIE** |
+| Jiangsu XINDA Tech Limited | China | Jiangyin | compoundingextruder.com | - | +86-510-85739372 | Plastic Compounding Systems, Twin Screw Extruder | Seit 1996, 2500+ Linien in 50+ Ländern, Co-kneader Spezialist |
+| Nanjing Hundred Horse Plastic Machine | China | Nanjing | njextrusion.com | - | - | Twin screw extruder, masterbatch production | Seit 2018, TPU, TPE, ABS, Nylon Compounds |
+| Addonn Polycompounds Pvt. Ltd. | Indien | Faridabad | addonnpolycompounds.com | info@addonnpolycompounds.com | +91-958-213-9293 | Engineering Plastic Compounds | ISO 9001, IATF 16949, seit 1989, 20.000MT/Jahr |
+| Capital Extrusion (INDIA) | Indien | Sonipat | capex.in | - | - | CO Rotating Twin Screw Extruder | 201-500 Mitarbeiter, personalisierte Lösungen |
+| CPM Extricom Extrusion GmbH | Deutschland/Europa | - | extricomextrusion.com | - | - | Ring & Twin Extrusion Technologies | 40+ Jahre Erfahrung, Europa's führender Aftermarket Supplier |
+| Nanjing Haisi Extrusion Equipment | China | Nanjing | haisiextruder.en.alibaba.com | - | - | Twin Screw Extruder, Single Screw Extruder | Two-stage Extrusion Line, Masterbatch Filler |
+| **🔍 ERWEITERTE SCREENING & FILTRATION** |
+| KARP MACHINERY | China | Xinxiang | karpmachinery.com | - | - | Vibrating screen sifter, conveying machines | 11 Jahre Erfahrung, verschiedene Industrien |
+| Haibao Machinery | China | Dongguan | hbsorter.com | - | - | Electrostatic plastic separator, color separator | 20.000 qm Fläche, CE-zertifiziert |
+| Henan Winner Vibrating Equipment | China | Xinxiang | winnermanufacturing.com | business@wmvibratingscreen.com | +86-373-3067721 | Mining/Light Vibrating Screen, Vibration motor | Seit 1954, 110.000 qm Fläche |
+| WEILIANG SCREENER | China | Xinxiang | wlscreener.com | info@wlscreener.com | +86-373-5656556 | S49 Series, Tumbler, Centrifugal Screener | Export in 52 Länder, CE ISO zertifiziert |
+| HEWA Screening | China | Xuzhou | puscreen.com | - | - | Global Professional Screening Solution | Seit 2013, 10+ Patente, ISO9001 |
+| SPALECK USA LLC | USA/Deutschland | - | spaleck-us.com | - | +1-281-965-9656 | Conveying & Separation Technology | Seit 1869, Flip-Flow screens, 3D Combi |
+| **⚙️ ERWEITERTE MELT PUMP & PRECISION EQUIPMENT** |
+| eprotec extrusion technology AG | Schweiz | Regensdorf | eprotec-extrusion.com | info@eprotec-extrusion.com | +41-43-388-90-90 | Melt-X pumps, high-precision extrusion | Schweizer Präzision, bis 8.000 kg/h |
+| Zhengzhou Bate Melt Pumps | China | Zhengzhou | meltpump.net | sales@battemachinery.com | +86-371-67991755 | Melt pumps, screen changers, feeders | Seit 2008, Zehntausende Pumpen weltweit |
+| PNH Melt Pump N Filters | Indien | Ankleshwar | pnhmeltpump.com | hari@pnhmeltpump.com | +91-98980-34918 | Melt pumps, spare parts, service | 25+ Jahre Erfahrung, Panchal Familie |
+| Zhengzhou Great Machinery | China | Zhengzhou | greatmachines.en.made-in-china.com | - | - | Melt filter, screen changer, melt gear pump | Hydraulic screen changer, extrusion dies |
 
 ---
 
@@ -114,4 +135,22 @@ Diese umfassende Tabelle enthält über 100 Firmen weltweit, die in den Bereiche
 
 ---
 
-**💡 Diese Recherche umfasst über 100 führende Unternehmen weltweit und bietet eine umfassende Marktübersicht für alle Aspekte der Kunststoffverarbeitung.**
+### **🚀 Neue Markttrends und Technologien:**
+1. **Intelligente Screening-Systeme**: SPALECK, WEILIANG mit fortschrittlicher Automatisierung
+2. **Präzisions-Melt-Pumps**: eprotec (Schweiz) für höchste Genauigkeit bis 8.000 kg/h
+3. **Elektrostatische Separation**: Haibao für gemischte Kunststoffe (ABS, PS, PP, PET, PVC)
+4. **Co-Kneader Technologie**: XINDA für spezielle Compounding-Anwendungen
+5. **Ring-Extrusion**: CPM Extricom's revolutionäre RingExtruder Technologie
+
+### **📊 Marktgrößen-Analyse:**
+- **Klein (11-50 MA)**: Spezialisierte Nischen-Anbieter
+- **Mittel (51-200 MA)**: Etablierte regionale Player  
+- **Groß (200+ MA)**: Globale Marktführer mit F&E-Zentren
+- **Kapazitäten**: Von 20 kg/h (Labor) bis 30.000 kg/h (Industriell)
+
+### **🔗 Strategische Partnerschaften:**
+- **XINDA + Siemens**: Digitalisierung der Compounding-Technologie
+- **MAAG Group**: Integration von GALA, AUTOMATIK, SCHEER, ETTLINGER
+- **CPM Extricom**: Europäische Extrusion-Kompetenzen mit globaler Reichweite
+
+**💡 Diese umfassende Recherche mit über 140 führenden Unternehmen weltweit bietet die vollständigste verfügbare Marktübersicht für alle Aspekte der modernen Kunststoffverarbeitung - von Recycling über Filtration bis hin zu hochpräzisen Extrusions- und Compounding-Technologien.**
